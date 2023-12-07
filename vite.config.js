@@ -1,5 +1,7 @@
-export default {
+import { defineConfig } from "vite";
+
+export default defineConfig({
     root: 'src/',
     publicDir: '../static/',
-    base: '/solar-system-threejs/'
-}
+    base: "https://tonicanada.github.io/solar-system-threejs/"
+})
