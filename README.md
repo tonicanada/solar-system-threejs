@@ -1,4 +1,4 @@
-# Building a Solar Sytem with Nasa Horizons API and three.js
+# Building a Solar System with Nasa Horizons API and three.js
 
 Web-App written in Vite and Three.js that uses data from the [NASA Horizons API](https://ssd-api.jpl.nasa.gov/doc/horizons.html) to represent the Solar System in 3D.
 
